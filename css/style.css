@@ -216,6 +216,7 @@ inline-size: 337px;
   inline-size: 7.438rem;
   position:relative;
   margin-inline-start: 13.75rem;
+  margin-block-end: 2.5rem;
 }
 .form input[type="text"]{
 margin-inline-end: 16px;
