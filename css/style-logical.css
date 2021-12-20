@@ -165,6 +165,7 @@ padding-inline: 20px;
   background: var(--whitebg);
   box-sizing: border-box;
   border-radius: 8px;
+  -webkit-appearance: none;
   padding-inline: 16px;
   padding-block: 12px;
   color: var(--white30);

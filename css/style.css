@@ -217,6 +217,9 @@ inline-size: 337px;
   position:relative;
   margin-inline-start: 13.75rem;
   margin-block-end: 2.5rem;
+  -webkit-appearance: none;
+  border-radius: 0;
+  -webkit-border-radius:0;
 }
 .form input[type="text"]{
 margin-inline-end: 16px;
