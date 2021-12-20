@@ -213,9 +213,9 @@ inline-size: 337px;
 .form input[type="submit"] {
   background: var(--gray20);
   color: white;
-  inline-size: 119px;
+  inline-size: 7.438rem;
   position:relative;
-  margin-inline-start: 220px;
+  margin-inline-start: 13.75rem;
 }
 .form input[type="text"]{
 margin-inline-end: 16px;
